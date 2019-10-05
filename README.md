@@ -33,6 +33,24 @@ source .env/bin/activate
 python3 detect.py --cfg cfg/yolov3-tiny.cfg --weights weights/best.pt --data data/chess.data 
 ```
 
+## Predictions examples
+
+<p align="center"> 
+    <img width="600" src=".//examples/output/sample-0001.jpg" alt="sample-0001">
+</p>
+
+<p align="center"> 
+    <img width="600" src=".//examples/output/sample-0002.jpg" alt="sample-0002">
+</p>
+
+<p align="center"> 
+    <img width="600" src=".//examples/output/sample-0004.jpg" alt="sample-0004">
+</p>
+
+<p align="center"> 
+    <img width="600" src=".//examples/output/sample-0006.jpg" alt="sample-0006">
+</p>
+
 ## Format of labels
 
 ```

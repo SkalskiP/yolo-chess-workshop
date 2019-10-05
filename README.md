@@ -32,3 +32,8 @@ source .env/bin/activate
 # run trening
 python3 detect.py --cfg cfg/yolov3-tiny.cfg --weights weights/best.pt --data data/chess.data 
 ```
+
+## Sources
+
+1. [The official Darknet website, along with the description of YOLO v3](https://pjreddie.com/darknet/yolo/)
+2. [YOLO v3 implementation with PyTorch](https://github.com/ultralytics/yolov3)

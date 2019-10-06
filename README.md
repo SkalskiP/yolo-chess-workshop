@@ -51,6 +51,10 @@ python3 detect.py --cfg cfg/yolov3-tiny.cfg --weights weights/best.pt --data dat
     <img width="600" src=".//examples/output/sample-0006.jpg" alt="sample-0006">
 </p>
 
+<p align="center"> 
+    <img width="600" src=".//examples/output/sample-20.gif" alt="sample-20">
+</p>
+
 ## Format of labels
 
 ```

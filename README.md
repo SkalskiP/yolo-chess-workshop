@@ -80,3 +80,4 @@ class x_center y_center width height
 1. [The official Darknet website, along with the description of YOLO v3](https://pjreddie.com/darknet/yolo/)
 2. [YOLO v3 implementation with PyTorch](https://github.com/ultralytics/yolov3)
 3. [Online Labelling Tool - makesense.ai](https://github.com/SkalskiP/make-sense)
+4. [What does a CNN see?](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
